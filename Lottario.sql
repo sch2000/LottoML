@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 8.0.19, for Win64 (x86_64)  Test
+-- MySQL dump 10.13  Distrib 8.0.19, for Win64 (x86_64)  Test terer
 --
 -- Host: 127.0.0.1    Database: Lottario
 -- ------------------------------------------------------
